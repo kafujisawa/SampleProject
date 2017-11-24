@@ -1,0 +1,14 @@
+#Test suite file data.
+#Fri Nov 24 20:50:47 JST 2017
+test_suite_additional_stubs=
+test_cases_properties=TestSuite_createOutputStatement_e83a4da1,TestSuite_createOutputStatement_e83a4da1_test_createPutputStatement;GRS\=@@PPS@@TCC\=void createOutputStatement(char *, char *)@@PPS@@TCD\=@@PPS@@TCE\=true@@PPS@@@@TCS@@TestSuite_createOutputStatement_e83a4da1_test_case;GRS\=@@PPS@@TCC\=void createOutputStatement(char *, char *)@@PPS@@TCD\=@@PPS@@TCE\=true@@PPS@@@@TCS@@@@TSS@@
+test_case_contexts=void createOutputStatement(char *, char *)@@TCC@@
+test_suite_included_by=/calcurator/calculator/src/format.c
+test_suites=TestSuite_createOutputStatement_e83a4da1,TestSuite_createOutputStatement_e83a4da1_test_createPutputStatement^16'CPPTEST_DS("createOutputStatement")@@TCS@@TestSuite_createOutputStatement_e83a4da1_test_case^16'CPPTEST_DS("createOutputStatement")@@TCS@@@@TSS@@
+registered=true
+test_suite_context=/calcurator/calculator/src/format.c
+fileVersion=5
+test_suite_description=
+test_suite_names=TestSuite_createOutputStatement_e83a4da1@@TSN@@
+defined=true
+timestamp=1511524011654

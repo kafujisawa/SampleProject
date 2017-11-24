@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Symbols version="2.0">
+    <TranslationUnitId>3384365911_16124_3990741104</TranslationUnitId>
+    <HasCoverageInfo>false</HasCoverageInfo>
+    <File name="C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\stubs\formatCheck_stub.c" id="1"/>
+    <Function id="formatCheck" name="ZLformatCheckX" decorated_name="int formatCheck(char *)" sorted_name="formatCheck" needed="true">
+      <definition type="user" source="code" file_id="1" line="37" col="6"/>
+    </Function>
+</Symbols>
+

@@ -1,0 +1,2 @@
+xharness.routineManager "symbol_file=C:\Program Files\Parasoft\C++test\10.3\engine\runtime\include/*" command=setProperty property=ignored value=true
+edg.multibyte_chars_in_source_enabled TRUE

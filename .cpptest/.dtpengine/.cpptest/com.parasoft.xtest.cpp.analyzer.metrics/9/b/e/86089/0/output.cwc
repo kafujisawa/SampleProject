@@ -1,0 +1,160 @@
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calculator.c
+<c>INTERNAL-METRICS-HALSTEAD
+<b>FUNC=main; OPERATORS=9; OPERANDS=20; UNIQUE_OPERATORS=4; UNIQUE_OPERANDS=13
+<l>17
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calculator.c
+<c>INTERNAL-METRICS-DIF
+<b>FUNC=main; NIF=0; TEMPLATE_FUNC=
+<l>17
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calculator.c
+<c>INTERNAL-METRICS-CC
+<b>FUNC=main; CC=1; SCC=1; MCC=1; TEMPLATE_FUNC=
+<l>17
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calculator.c
+<c>INTERNAL-METRICS-ECC
+<b>FUNC=main; ECC=1; TEMPLATE_FUNC=[empty]
+<l>17
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calculator.c
+<c>INTERNAL-METRICS-LLIMF
+<b>FUNC=main; LLIMF=7; TEMPLATE_FUNC=
+<l>17
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calculator.c
+<c>INTERNAL-METRICS-NORET
+<b>FUNC=main; NORET=1; TEMPLATE_FUNC=
+<l>17
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calculator.c
+<c>INTERNAL-METRICS-FUNCTIONS2
+<b>FUNC=main; SIGNATURE=main; NAMESPACE=; PARAMNO=0; DEF=true; START_LINE=17; END_LINE=27; TEMPLATE_FUNC=
+<l>17
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calculator.c
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=main; NBD=0; TEMPLATE_FUNC=
+<l>17
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\viewer.h
+<c>INTERNAL-METRICS-FUNCTIONS2
+<b>FUNC=inputconsole; SIGNATURE=inputconsole; NAMESPACE=; PARAMNO=1; DEF=false; START_LINE=13; END_LINE=13; TEMPLATE_FUNC=
+<l>13
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\viewer.h
+<c>INTERNAL-METRICS-FUNCTIONS2
+<b>FUNC=outputconsole; SIGNATURE=outputconsole; NAMESPACE=; PARAMNO=1; DEF=false; START_LINE=14; END_LINE=14; TEMPLATE_FUNC=
+<l>14
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\format.h
+<c>INTERNAL-METRICS-FUNCTIONS2
+<b>FUNC=strlenCheck; SIGNATURE=strlenCheck; NAMESPACE=; PARAMNO=1; DEF=false; START_LINE=14; END_LINE=14; TEMPLATE_FUNC=
+<l>14
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\format.h
+<c>INTERNAL-METRICS-FUNCTIONS2
+<b>FUNC=formatCheck; SIGNATURE=formatCheck; NAMESPACE=; PARAMNO=1; DEF=false; START_LINE=15; END_LINE=15; TEMPLATE_FUNC=
+<l>15
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\format.h
+<c>INTERNAL-METRICS-FUNCTIONS2
+<b>FUNC=reversePolish; SIGNATURE=reversePolish; NAMESPACE=; PARAMNO=2; DEF=false; START_LINE=16; END_LINE=16; TEMPLATE_FUNC=
+<l>16
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\format.h
+<c>INTERNAL-METRICS-FUNCTIONS2
+<b>FUNC=createOutputStatement; SIGNATURE=createOutputStatement; NAMESPACE=; PARAMNO=2; DEF=false; START_LINE=17; END_LINE=17; TEMPLATE_FUNC=
+<l>17
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.h
+<c>INTERNAL-METRICS-FUNCTIONS2
+<b>FUNC=calc; SIGNATURE=calc; NAMESPACE=; PARAMNO=2; DEF=false; START_LINE=14; END_LINE=14; TEMPLATE_FUNC=
+<l>14
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calculator.c
+<c>INTERNAL-METRICS-LINES_TYPES
+<b>DATA=CCCCCCCCCBSSSSSSSMSSSSCCSSS
+<l>1
+<k>-1
+<s>false
+<N>
+<f>
+<L>0

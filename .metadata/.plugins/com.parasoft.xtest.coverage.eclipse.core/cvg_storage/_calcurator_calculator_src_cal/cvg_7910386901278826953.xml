@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CvgData file="/calcurator/calculator/src/calc.c" type="LC">
+  <VersionInfos>
+    <StorageInfo ownerId="LC" resultId="LineCoverageStaticInfo" ver="2" />
+    <StorageInfo ownerId="LC" resultId="IDynamicCoverageInfo" ver="2" />
+  </VersionInfos>
+  <Stats>
+    <ElemStats elem="/calcurator/calculator/src/calc.c;9;calc" total="52" num="0" />
+  </Stats>
+  <ResultInfo cvgType="LC" stat="true">
+    <StatCvg elem="/calcurator/calculator/src/calc.c;9;calc" lns="10 11 12 13 14 15 16 17 28 29 30 31 32 34 35 36 38 40 44 45 46 48 49 51 55 56 57 59 60 62 64 66 67 68 69 70 71 73 74 76 78 79 80 82 83 84 86 89 90 92 94 96" file="/calcurator/calculator/src/calc.c" show="true" />
+  </ResultInfo>
+</CvgData>

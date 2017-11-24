@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Symbols version="2.0">
+    <TranslationUnitId>1249781333_16292_3990742751</TranslationUnitId>
+    <HasCoverageInfo>false</HasCoverageInfo>
+    <File name="C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\stubs\reversePolish_stub.c" id="1"/>
+    <Function id="reversePolish" name="ZNreversePolishX" decorated_name="int reversePolish(char *, char *)" sorted_name="reversePolish" needed="true">
+      <definition type="user" source="code" file_id="1" line="37" col="6"/>
+    </Function>
+</Symbols>
+

@@ -1,0 +1,140 @@
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>INTERNAL-METRICS-HALSTEAD
+<b>FUNC=calc; OPERATORS=196; OPERANDS=170; UNIQUE_OPERATORS=23; UNIQUE_OPERANDS=41
+<l>9
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>INTERNAL-METRICS-DIF
+<b>FUNC=calc; NIF=2; TEMPLATE_FUNC=
+<l>9
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>INTERNAL-METRICS-CC
+<b>FUNC=calc; CC=15; SCC=24; MCC=11; TEMPLATE_FUNC=
+<l>9
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>INTERNAL-METRICS-ECC
+<b>FUNC=calc; ECC=14; TEMPLATE_FUNC=[empty]
+<l>9
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>INTERNAL-METRICS-LLIMF
+<b>FUNC=calc; LLIMF=53; TEMPLATE_FUNC=
+<l>9
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>INTERNAL-METRICS-NORET
+<b>FUNC=calc; NORET=7; TEMPLATE_FUNC=
+<l>9
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>INTERNAL-METRICS-FUNCTIONS2
+<b>FUNC=calc; SIGNATURE=calc; NAMESPACE=; PARAMNO=2; DEF=true; START_LINE=9; END_LINE=98; TEMPLATE_FUNC=
+<l>9
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=calc; NBD=4; TEMPLATE_FUNC=
+<l>9
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>INTERNAL-METRICS-DIF
+<b>FUNC=calc; NIF=2; TEMPLATE_FUNC=
+<l>9
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>INTERNAL-METRICS-LLIMF
+<b>FUNC=calc; LLIMF=53; TEMPLATE_FUNC=
+<l>9
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.h
+<c>INTERNAL-METRICS-FUNCTIONS2
+<b>FUNC=calc; SIGNATURE=calc; NAMESPACE=; PARAMNO=2; DEF=false; START_LINE=14; END_LINE=14; TEMPLATE_FUNC=
+<l>14
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>INTERNAL-METRICS-NBD
+<b>FUNC=calc; NBD=4; TEMPLATE_FUNC=
+<l>9
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>INTERNAL-METRICS-LINES_TYPES
+<b>DATA=CCCCCCSBSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSCCSSMSSSSSSCCSSMSSSSSSSCSSMSSMSSSSSSSSSSSSSSSSSSSSSSSBSBS
+<l>1
+<k>-1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.h
+<c>INTERNAL-METRICS-LINES_TYPES
+<b>DATA=CCCCCCBSSSSSSSBBM
+<l>1
+<k>-1
+<s>false
+<N>
+<f>
+<L>0

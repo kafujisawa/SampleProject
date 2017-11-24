@@ -1,0 +1,64 @@
+------- cpptestscan v.10.3.0 (cpptesttrace) -------
+working_dir=C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\Default
+project_name=calcurator
+arg=gcc
+arg=-IC:\Program Files\Parasoft\C++test\10.3\engine\runtime\include
+arg=-O2
+arg=-g
+arg=-Wall
+arg=-c
+arg=-fmessage-length=0
+arg=-DPARASOFT_CPPTEST
+arg=C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+env+=PATH=C:\Cygwin\bin;C:\\Program Files\\Parasoft\\C++test\\10.3;C:\Program Files (x86)\Parasoft\Insure++\bin;C:\Program Files\Parasoft\C++test\10.3;C:\Program Files (x86)\Windows Resource Kits\Tools\;C:\ProgramData\Oracle\Java\javapath;%JAVA_HOME%\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Common Files\Lenovo;C:\ProgramData\Lenovo\ReadyApps;C:\Program Files\AccuRev\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\TortoiseSVN\bin;c:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\HashiCorp\Vagrant\bin;C:\Windows\SysWOW64\WindowsPowerShell\v1.0\Modules\TShell\TShell\;C:\work\tools\maven\apache-maven-3.3.9\bin;C:\Program Files (x86)\PICT\;c:\Program Files (x86)\Microsoft SQL Server\90\Tools\binn\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\ProgramData\Anaconda3;C:\ProgramData\Anaconda3\Scripts;C:\ProgramData\Anaconda3\Library\bin;C:\Program Files\Git\cmd;%USERPROFILE%\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8;C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM32;C:\Program Files (x86)\COSMIC\CXSTM8_EVAL;C:\Program Files\Docker Toolbox;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Program Files (x86)\CMake\bin
+env+=PWD=C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\Default
+env+=LANG=C.ISO-8859-1
+env+=CWD=C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\Default
+------- cpptestscan v.10.3.0 (cpptesttrace) -------
+working_dir=C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\Default
+project_name=calcurator
+arg=gcc
+arg=-IC:\Program Files\Parasoft\C++test\10.3\engine\runtime\include
+arg=-O2
+arg=-g
+arg=-Wall
+arg=-c
+arg=-fmessage-length=0
+arg=-DPARASOFT_CPPTEST
+arg=C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calculator.c
+env+=PATH=C:\Cygwin\bin;C:\\Program Files\\Parasoft\\C++test\\10.3;C:\Program Files (x86)\Parasoft\Insure++\bin;C:\Program Files\Parasoft\C++test\10.3;C:\Program Files (x86)\Windows Resource Kits\Tools\;C:\ProgramData\Oracle\Java\javapath;%JAVA_HOME%\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Common Files\Lenovo;C:\ProgramData\Lenovo\ReadyApps;C:\Program Files\AccuRev\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\TortoiseSVN\bin;c:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\HashiCorp\Vagrant\bin;C:\Windows\SysWOW64\WindowsPowerShell\v1.0\Modules\TShell\TShell\;C:\work\tools\maven\apache-maven-3.3.9\bin;C:\Program Files (x86)\PICT\;c:\Program Files (x86)\Microsoft SQL Server\90\Tools\binn\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\ProgramData\Anaconda3;C:\ProgramData\Anaconda3\Scripts;C:\ProgramData\Anaconda3\Library\bin;C:\Program Files\Git\cmd;%USERPROFILE%\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8;C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM32;C:\Program Files (x86)\COSMIC\CXSTM8_EVAL;C:\Program Files\Docker Toolbox;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Program Files (x86)\CMake\bin
+env+=PWD=C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\Default
+env+=LANG=C.ISO-8859-1
+env+=CWD=C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\Default
+------- cpptestscan v.10.3.0 (cpptesttrace) -------
+working_dir=C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\Default
+project_name=calcurator
+arg=gcc
+arg=-IC:\Program Files\Parasoft\C++test\10.3\engine\runtime\include
+arg=-O2
+arg=-g
+arg=-Wall
+arg=-c
+arg=-fmessage-length=0
+arg=-DPARASOFT_CPPTEST
+arg=C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\format.c
+env+=PATH=C:\Cygwin\bin;C:\\Program Files\\Parasoft\\C++test\\10.3;C:\Program Files (x86)\Parasoft\Insure++\bin;C:\Program Files\Parasoft\C++test\10.3;C:\Program Files (x86)\Windows Resource Kits\Tools\;C:\ProgramData\Oracle\Java\javapath;%JAVA_HOME%\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Common Files\Lenovo;C:\ProgramData\Lenovo\ReadyApps;C:\Program Files\AccuRev\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\TortoiseSVN\bin;c:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\HashiCorp\Vagrant\bin;C:\Windows\SysWOW64\WindowsPowerShell\v1.0\Modules\TShell\TShell\;C:\work\tools\maven\apache-maven-3.3.9\bin;C:\Program Files (x86)\PICT\;c:\Program Files (x86)\Microsoft SQL Server\90\Tools\binn\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\ProgramData\Anaconda3;C:\ProgramData\Anaconda3\Scripts;C:\ProgramData\Anaconda3\Library\bin;C:\Program Files\Git\cmd;%USERPROFILE%\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8;C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM32;C:\Program Files (x86)\COSMIC\CXSTM8_EVAL;C:\Program Files\Docker Toolbox;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Program Files (x86)\CMake\bin
+env+=PWD=C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\Default
+env+=LANG=C.ISO-8859-1
+env+=CWD=C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\Default
+------- cpptestscan v.10.3.0 (cpptesttrace) -------
+working_dir=C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\Default
+project_name=calcurator
+arg=gcc
+arg=-IC:\Program Files\Parasoft\C++test\10.3\engine\runtime\include
+arg=-O2
+arg=-g
+arg=-Wall
+arg=-c
+arg=-fmessage-length=0
+arg=-DPARASOFT_CPPTEST
+arg=C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\viewer.c
+env+=PATH=C:\Cygwin\bin;C:\\Program Files\\Parasoft\\C++test\\10.3;C:\Program Files (x86)\Parasoft\Insure++\bin;C:\Program Files\Parasoft\C++test\10.3;C:\Program Files (x86)\Windows Resource Kits\Tools\;C:\ProgramData\Oracle\Java\javapath;%JAVA_HOME%\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Common Files\Lenovo;C:\ProgramData\Lenovo\ReadyApps;C:\Program Files\AccuRev\bin;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\TortoiseSVN\bin;c:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\Tools\Binn\;c:\Program Files\Microsoft SQL Server\100\DTS\Binn\;C:\HashiCorp\Vagrant\bin;C:\Windows\SysWOW64\WindowsPowerShell\v1.0\Modules\TShell\TShell\;C:\work\tools\maven\apache-maven-3.3.9\bin;C:\Program Files (x86)\PICT\;c:\Program Files (x86)\Microsoft SQL Server\90\Tools\binn\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\ProgramData\Anaconda3;C:\ProgramData\Anaconda3\Scripts;C:\ProgramData\Anaconda3\Library\bin;C:\Program Files\Git\cmd;%USERPROFILE%\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM8;C:\Program Files (x86)\COSMIC\FSE_Compilers\CXSTM32;C:\Program Files (x86)\COSMIC\CXSTM8_EVAL;C:\Program Files\Docker Toolbox;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Program Files (x86)\CMake\bin
+env+=PWD=C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\Default
+env+=LANG=C.ISO-8859-1
+env+=CWD=C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\Default

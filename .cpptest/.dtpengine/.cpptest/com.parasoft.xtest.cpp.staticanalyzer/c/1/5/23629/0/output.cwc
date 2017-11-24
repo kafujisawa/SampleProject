@@ -1,0 +1,530 @@
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>CODSTA-181
+<b>'+' 演算子の左辺のオペランドとして使用されている変数 'repolish' がポインター型である
+<l>16
+<k>18
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>CODSTA-181
+<b>'+' 演算子の左辺のオペランドとして使用されている変数 'repolish' がポインター型である
+<l>17
+<k>13
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>CODSTA-181
+<b>'+' 演算子の左辺のオペランドがポインター型である
+<l>28
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>CODSTA-181
+<b>'+' 演算子の左辺のオペランドとして使用されている変数 'repolish' がポインター型である
+<l>28
+<k>9
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>CODSTA-181
+<b>'+' 演算子の左辺のオペランドとして使用されている変数 'repolish' がポインター型である
+<l>29
+<k>43
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>CODSTA-181
+<b>'+' 演算子の左辺のオペランドとして使用されている変数 'repolish' がポインター型である
+<l>38
+<k>29
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>CODSTA-163_b
+<b>The expression of the 'essentially signed' type is assigned to an object with the 'essentially floating' type
+<l>29
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>CODSTA-164_a
+<b>Operands of the '<' operator have different essential types: 'double' and 'signed char'
+<l>30
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>CODSTA-164_a
+<b>Operands of the '==' operator have different essential types: 'double' and 'signed char'
+<l>78
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>CODSTA-164_a
+<b>Operands of the '>' operator have different essential types: 'double' and 'int'
+<l>66
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>CODSTA-164_a
+<b>Operands of the '<' operator have different essential types: 'double' and 'int'
+<l>69
+<k>14
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>CODSTA-164_a
+<b>Operands of the '<' operator have different essential types: 'double' and 'int'
+<l>55
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>CODSTA-164_a
+<b>Operands of the '>' operator have different essential types: 'double' and 'int'
+<l>44
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>CODSTA-164_a
+<b>Operands of the '>' operator have different essential types: 'double' and 'signed char'
+<l>89
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>CODSTA-110
+<b>printf 関数を使用してはいけない
+<l>10
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>MISRA2004-14_7
+<b>calc 関数に return 文を 1 つだけ記述する
+<l>32
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>MISRA2004-14_7
+<b>calc 関数に return 文を 1 つだけ記述する
+<l>80
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>MISRA2004-14_7
+<b>calc 関数に return 文を 1 つだけ記述する
+<l>68
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>MISRA2004-14_7
+<b>calc 関数に return 文を 1 つだけ記述する
+<l>71
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>MISRA2004-14_7
+<b>calc 関数に return 文を 1 つだけ記述する
+<l>57
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>MISRA2004-14_7
+<b>calc 関数に return 文を 1 つだけ記述する
+<l>46
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>MISRA2004-14_7
+<b>calc 関数に return 文を 1 つだけ記述する
+<l>96
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>CODSTA-122_a
+<b>未使用関数の "printf" 戻り値
+<l>10
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>MISRA2004-12_1_e
+<b>式に異なる種類の演算子がある場合、括弧を使用する
+<l>29
+<k>24
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>MISRA2004-12_1_e
+<b>式に異なる種類の演算子がある場合、括弧を使用する
+<l>38
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>MISRA2004-12_1_e
+<b>式に異なる種類の演算子がある場合、括弧を使用する
+<l>55
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>MISRA2004-12_1_e
+<b>式に異なる種類の演算子がある場合、括弧を使用する
+<l>44
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>CODSTA-169_b
+<b>The second clause of a 'for' statement contains an object that is modified inside the loop body:  'cnt'
+<l>16
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>CODSTA-168
+<b>The loop counter is modified inside the 'for' loop body
+<l>16
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>CODSTA-169_c
+<b>for 文の 3 番目の句に for ループの本文で変更されるオブジェクトがある
+<l>16
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>CODSTA-119
+<b>終了の break の前に文またはコメントがない
+<l>86
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.h
+<c>MISRA2004-16_3
+<b>引数には名前がなければならない
+<l>14
+<k>5
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>CODSTA-122_a
+<b>未使用関数の "printf" 戻り値
+<l>10
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>MISRA2004-12_1_e
+<b>式に異なる種類の演算子がある場合、括弧を使用する
+<l>29
+<k>24
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>MISRA2004-12_1_e
+<b>式に異なる種類の演算子がある場合、括弧を使用する
+<l>38
+<k>10
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>MISRA2004-12_1_e
+<b>式に異なる種類の演算子がある場合、括弧を使用する
+<l>55
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>MISRA2004-12_1_e
+<b>式に異なる種類の演算子がある場合、括弧を使用する
+<l>44
+<k>7
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>CODSTA-169_b
+<b>The second clause of a 'for' statement contains an object that is modified inside the loop body:  'cnt'
+<l>16
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>CODSTA-168
+<b>The loop counter is modified inside the 'for' loop body
+<l>16
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>CODSTA-169_c
+<b>for 文の 3 番目の句に for ループの本文で変更されるオブジェクトがある
+<l>16
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>MISRA2004-2_4
+<b>Section of code should not be 'commented out'
+<l>42
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>MISRA2004-2_4
+<b>Section of code should not be 'commented out'
+<l>53
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>MISRA2004-2_4
+<b>Section of code should not be 'commented out'
+<l>65
+<k>4
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>MISRA2004-6_3_b
+<b>基本数値型 int を使用するべきではない
+<l>9
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>MISRA2004-6_3_b
+<b>基本数値型 int を使用するべきではない
+<l>9
+<k>25
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>MISRA2004-6_3_b
+<b>基本数値型 double を使用するべきではない
+<l>11
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>MISRA2004-6_3_b
+<b>基本数値型 int を使用するべきではない
+<l>12
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>MISRA2004-6_3_b
+<b>基本数値型 int を使用するべきではない
+<l>13
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>MISRA2004-6_3_b
+<b>基本数値型 int を使用するべきではない
+<l>14
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>MISRA2004-6_3_b
+<b>基本数値型 double を使用するべきではない
+<l>15
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>MISRA2004-6_3_b
+<b>基本数値型 int を使用するべきではない
+<l>29
+<k>36
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>MISRA2004-6_3_b
+<b>基本数値型 int を使用するべきではない
+<l>38
+<k>22
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\calc.c
+<c>MISRA2004-6_3_b
+<b>基本数値型 int を使用するべきではない
+<l>94
+<k>24
+<s>false
+<N>
+<f>
+<L>0

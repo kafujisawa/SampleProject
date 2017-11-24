@@ -1,0 +1,130 @@
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\viewer.c
+<c>CODSTA-110
+<b>fgets 関数を使用してはいけない
+<l>13
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\viewer.c
+<c>CODSTA-110
+<b>printf 関数を使用してはいけない
+<l>21
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\viewer.c
+<c>CODSTA-122_a
+<b>未使用関数の "fgets" 戻り値
+<l>13
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\viewer.c
+<c>CODSTA-122_a
+<b>未使用関数の "printf" 戻り値
+<l>21
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\viewer.c
+<c>MISRA2004-14_8
+<b>関数 outputconsole  の for 文の後にブロックがなければならない
+<l>20
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\viewer.h
+<c>MISRA2004-16_3
+<b>引数には名前がなければならない
+<l>13
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\viewer.c
+<c>CODSTA-122_a
+<b>未使用関数の "fgets" 戻り値
+<l>13
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\viewer.c
+<c>CODSTA-122_a
+<b>未使用関数の "printf" 戻り値
+<l>21
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\viewer.c
+<c>MISRA2004-16_4
+<b>Identifiers given in declaration of 'outputconsole' function (file: 'viewer.h', line: '14') are: 'str2' not: 'str1'
+<l>18
+<k>6
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\viewer.c
+<c>MISRA2004-14_8
+<b>関数 outputconsole  の for 文の後にブロックがなければならない
+<l>20
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\viewer.c
+<c>MISRA2004-2_4
+<b>Section of code should not be 'commented out'
+<l>12
+<k>2
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\viewer.c
+<c>MISRA2004-2_4
+<b>Section of code should not be 'commented out'
+<l>23
+<k>1
+<s>false
+<N>
+<f>
+<L>0
+<->
+<F>C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\viewer.c
+<c>MISRA2004-6_3_b
+<b>基本数値型 int を使用するべきではない
+<l>19
+<k>2
+<s>false
+<N>
+<f>
+<L>0

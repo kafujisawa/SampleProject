@@ -1,0 +1,14 @@
+#Test suite file data.
+#Fri Nov 24 20:50:47 JST 2017
+test_suite_additional_stubs=
+test_cases_properties=TestSuite_formatCheck_3f15dc1c,TestSuite_formatCheck_3f15dc1c_test_formatCheck;GRS\=@@PPS@@TCC\=int formatCheck(char *)@@PPS@@TCD\=@@PPS@@TCE\=true@@PPS@@@@TCS@@@@TSS@@
+test_case_contexts=int formatCheck(char *)@@TCC@@
+test_suite_included_by=/calcurator/calculator/src/format.c
+test_suites=TestSuite_formatCheck_3f15dc1c,TestSuite_formatCheck_3f15dc1c_test_formatCheck^16'CPPTEST_DS("formatCheck")@@TCS@@@@TSS@@
+registered=true
+test_suite_context=/calcurator/calculator/src/format.c
+fileVersion=5
+test_suite_description=
+test_suite_names=TestSuite_formatCheck_3f15dc1c@@TSN@@
+defined=true
+timestamp=1511524011661

@@ -1,0 +1,14 @@
+#Test suite file data.
+#Fri Nov 24 20:50:47 JST 2017
+test_suite_additional_stubs=
+test_cases_properties=TestSuite_strlenCheck_27fca8b6,TestSuite_strlenCheck_27fca8b6_test_strlenCheck;GRS\=@@PPS@@TCC\=int strlenCheck(char *)@@PPS@@TCD\=@@PPS@@TCE\=true@@PPS@@@@TCS@@@@TSS@@
+test_case_contexts=int strlenCheck(char *)@@TCC@@
+test_suite_included_by=/calcurator/calculator/src/format.c
+test_suites=TestSuite_strlenCheck_27fca8b6,TestSuite_strlenCheck_27fca8b6_test_strlenCheck^16'CPPTEST_DS("strlenCheck")@@TCS@@@@TSS@@
+registered=true
+test_suite_context=/calcurator/calculator/src/format.c
+fileVersion=5
+test_suite_description=
+test_suite_names=TestSuite_strlenCheck_27fca8b6@@TSN@@
+defined=true
+timestamp=1511524011690

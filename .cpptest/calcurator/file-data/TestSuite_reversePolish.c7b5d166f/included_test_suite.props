@@ -1,0 +1,14 @@
+#Test suite file data.
+#Fri Nov 24 20:50:47 JST 2017
+test_suite_additional_stubs=
+test_cases_properties=TestSuite_reversePolish_d77acb91,TestSuite_reversePolish_d77acb91_test_reversePolish;GRS\=@@PPS@@TCC\=int reversePolish(char *, char *)@@PPS@@TCD\=@@PPS@@TCE\=true@@PPS@@@@TCS@@@@TSS@@
+test_case_contexts=int reversePolish(char *, char *)@@TCC@@
+test_suite_included_by=/calcurator/calculator/src/format.c
+test_suites=TestSuite_reversePolish_d77acb91,TestSuite_reversePolish_d77acb91_test_reversePolish^512'CPPTEST_DS("reversepolish")@@TCS@@@@TSS@@
+registered=true
+test_suite_context=/calcurator/calculator/src/format.c
+fileVersion=5
+test_suite_description=
+test_suite_names=TestSuite_reversePolish_d77acb91@@TSN@@
+defined=true
+timestamp=1511524011672

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Symbols version="2.0">
+    <TranslationUnitId>2942093191_14332_3990739431</TranslationUnitId>
+    <HasCoverageInfo>false</HasCoverageInfo>
+    <File name="C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\stubs\calc_stub.c" id="1"/>
+    <Function id="calc" name="ZEcalcX" decorated_name="int calc(char *, int *)" sorted_name="calc" needed="true">
+      <definition type="user" source="code" file_id="1" line="37" col="6"/>
+    </Function>
+    <Function id="printf" name="ZGprintfX" decorated_name="int printf(void)" sorted_name="printf" needed="true">
+      <stub_declaration complete="true">
+         <declaration_prefix>EXTERN_C_LINKAGE int </declaration_prefix>
+         <declaration_suffix>_Stub_printf (void) </declaration_suffix>
+         <orig_declaration>EXTERN_C_LINKAGE int printf () </orig_declaration>
+         <trigger_name>printf</trigger_name>
+         <trigger_call>CPPTEST_ACTUAL_CALL_C(&quot;printf&quot;)-&gt;WithRefArg(&quot;__return&quot;, &amp;__return, tgr_int_type())-&gt;WithRefArg(&quot;__callOrig&quot;, &amp;__callOrig, tgr_int_type())-&gt;End()</trigger_call>
+         <post_trigger_call>CPPTEST_ACTUAL_AFTER_CALL_C(&quot;printf&quot;)-&gt;WithRefArg(&quot;__return&quot;, &amp;__return, tgr_int_type())-&gt;End()</post_trigger_call>
+         <orig_call>printf()</orig_call>
+         <return_var_decl>int __return</return_var_decl>
+         <return_expression>0</return_expression>
+      </stub_declaration>
+    </Function>
+</Symbols>
+

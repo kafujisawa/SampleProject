@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<LibrarySymbols tool="C++Test" formatVersion="1.0" source="C:\Cygwin\lib\crt0.o">
+    <Symbol name="_mainCRTStartup" remangled="ZOmainCRTStartupX"/>
+    <Symbol name="_WinMainCRTStartup" remangled="ZbBWinMainCRTStartupX"/>
+</LibrarySymbols>

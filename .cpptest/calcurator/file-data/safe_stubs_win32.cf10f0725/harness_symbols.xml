@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Symbols version="2.0">
+    <TranslationUnitId>4044293925_17232_3990747342</TranslationUnitId>
+    <HasCoverageInfo>false</HasCoverageInfo>
+    <File name="C:\Program Files\Parasoft\C++test\10.3\engine\etc\safestubs\safe_stubs_win32.c" id="1"/>
+    <Function id="abort" name="ZFabortX" decorated_name="void abort(void)" sorted_name="abort">
+      <definition type="safe" source="code" file_id="1" line="164" col="33"/>
+    </Function>
+    <Function id="exit" name="ZEexitX" decorated_name="void exit(int)" sorted_name="exit">
+      <definition type="safe" source="code" file_id="1" line="169" col="33"/>
+    </Function>
+    <Function id="raise" name="ZFraiseX" decorated_name="int raise(int)" sorted_name="raise">
+      <definition type="safe" source="code" file_id="1" line="158" col="32"/>
+    </Function>
+    <Function id="CreateFileA" name="ZLCreateFileAX" decorated_name="HANDLE CreateFileA(LPCSTR, DWORD, DWORD, LPSECURITY_ATTRIBUTES, DWORD, DWORD, HANDLE)" sorted_name="CreateFileA">
+      <definition type="safe" source="code" file_id="1" line="222" col="37"/>
+    </Function>
+    <Function id="CreateFileW" name="ZLCreateFileWX" decorated_name="HANDLE CreateFileW(LPCWSTR, DWORD, DWORD, LPSECURITY_ATTRIBUTES, DWORD, DWORD, HANDLE)" sorted_name="CreateFileW">
+      <definition type="safe" source="code" file_id="1" line="235" col="37"/>
+    </Function>
+    <Function id="SetFileTime" name="ZLSetFileTimeX" decorated_name="WINBOOL SetFileTime(HANDLE, const FILETIME *, const FILETIME *, const FILETIME *)" sorted_name="SetFileTime">
+      <definition type="safe" source="code" file_id="1" line="394" col="35"/>
+    </Function>
+    <Function id="SetFileValidData" name="ZbASetFileValidDataX" decorated_name="WINBOOL SetFileValidData(HANDLE, LONGLONG)" sorted_name="SetFileValidData">
+      <definition type="safe" source="code" file_id="1" line="661" col="35"/>
+    </Function>
+    <Function id="WriteFileEx" name="ZLWriteFileExX" decorated_name="WINBOOL WriteFileEx(HANDLE, LPCVOID, DWORD, LPOVERLAPPED, LPOVERLAPPED_COMPLETION_ROUTINE)" sorted_name="WriteFileEx">
+      <definition type="safe" source="code" file_id="1" line="416" col="35"/>
+    </Function>
+    <Function id="WriteFileGather" name="ZPWriteFileGatherX" decorated_name="WINBOOL WriteFileGather(HANDLE, FILE_SEGMENT_ELEMENT *, DWORD, LPDWORD, LPOVERLAPPED)" sorted_name="WriteFileGather">
+      <definition type="safe" source="code" file_id="1" line="428" col="35"/>
+    </Function>
+    <Function id="CreateDirectoryA" name="ZbACreateDirectoryAX" decorated_name="WINBOOL CreateDirectoryA(LPCSTR, LPSECURITY_ATTRIBUTES)" sorted_name="CreateDirectoryA">
+      <definition type="safe" source="code" file_id="1" line="176" col="35"/>
+    </Function>
+    <Function id="CreateDirectoryW" name="ZbACreateDirectoryWX" decorated_name="WINBOOL CreateDirectoryW(LPCWSTR, LPSECURITY_ATTRIBUTES)" sorted_name="CreateDirectoryW">
+      <definition type="safe" source="code" file_id="1" line="183" col="35"/>
+    </Function>
+    <Function id="DeleteFileA" name="ZLDeleteFileAX" decorated_name="WINBOOL DeleteFileA(LPCSTR)" sorted_name="DeleteFileA">
+      <definition type="safe" source="code" file_id="1" line="259" col="35"/>
+    </Function>
+    <Function id="DeleteFileW" name="ZLDeleteFileWX" decorated_name="WINBOOL DeleteFileW(LPCWSTR)" sorted_name="DeleteFileW">
+      <definition type="safe" source="code" file_id="1" line="266" col="35"/>
+    </Function>
+    <Function id="RemoveDirectoryA" name="ZbARemoveDirectoryAX" decorated_name="WINBOOL RemoveDirectoryA(LPCSTR)" sorted_name="RemoveDirectoryA">
+      <definition type="safe" source="code" file_id="1" line="208" col="35"/>
+    </Function>
+    <Function id="RemoveDirectoryW" name="ZbARemoveDirectoryWX" decorated_name="WINBOOL RemoveDirectoryW(LPCWSTR)" sorted_name="RemoveDirectoryW">
+      <definition type="safe" source="code" file_id="1" line="215" col="35"/>
+    </Function>
+    <Function id="SetEndOfFile" name="ZMSetEndOfFileX" decorated_name="WINBOOL SetEndOfFile(HANDLE)" sorted_name="SetEndOfFile">
+      <definition type="safe" source="code" file_id="1" line="353" col="35"/>
+    </Function>
+    <Function id="SetFileAttributesA" name="ZbCSetFileAttributesAX" decorated_name="WINBOOL SetFileAttributesA(LPCSTR, DWORD)" sorted_name="SetFileAttributesA">
+      <definition type="safe" source="code" file_id="1" line="360" col="35"/>
+    </Function>
+    <Function id="SetFileAttributesW" name="ZbCSetFileAttributesWX" decorated_name="WINBOOL SetFileAttributesW(LPCWSTR, DWORD)" sorted_name="SetFileAttributesW">
+      <definition type="safe" source="code" file_id="1" line="368" col="35"/>
+    </Function>
+    <Function id="WriteFile" name="ZJWriteFileX" decorated_name="WINBOOL WriteFile(HANDLE, LPCVOID, DWORD, LPDWORD, LPOVERLAPPED)" sorted_name="WriteFile">
+      <definition type="safe" source="code" file_id="1" line="404" col="35"/>
+    </Function>
+    <Function id="ExitProcess" name="ZLExitProcessX" decorated_name="void ExitProcess(UINT)" sorted_name="ExitProcess">
+      <definition type="safe" source="code" file_id="1" line="559" col="35"/>
+    </Function>
+    <Function id="TerminateProcess" name="ZbATerminateProcessX" decorated_name="WINBOOL TerminateProcess(HANDLE, UINT)" sorted_name="TerminateProcess">
+      <definition type="safe" source="code" file_id="1" line="565" col="35"/>
+    </Function>
+    <Function id="CreateRemoteThread" name="ZbCCreateRemoteThreadX" decorated_name="HANDLE CreateRemoteThread(HANDLE, LPSECURITY_ATTRIBUTES, SIZE_T, LPTHREAD_START_ROUTINE, LPVOID, DWORD, LPDWORD)" sorted_name="CreateRemoteThread">
+      <definition type="safe" source="code" file_id="1" line="453" col="37"/>
+    </Function>
+    <Function id="CreateProcessA" name="ZOCreateProcessAX" decorated_name="WINBOOL CreateProcessA(LPCSTR, LPSTR, LPSECURITY_ATTRIBUTES, LPSECURITY_ATTRIBUTES, WINBOOL, DWORD, LPVOID, LPCSTR, LPSTARTUPINFOA, LPPROCESS_INFORMATION)" sorted_name="CreateProcessA">
+      <definition type="safe" source="code" file_id="1" line="466" col="35"/>
+    </Function>
+    <Function id="CreateProcessW" name="ZOCreateProcessWX" decorated_name="WINBOOL CreateProcessW(LPCWSTR, LPWSTR, LPSECURITY_ATTRIBUTES, LPSECURITY_ATTRIBUTES, WINBOOL, DWORD, LPVOID, LPCWSTR, LPSTARTUPINFOW, LPPROCESS_INFORMATION)" sorted_name="CreateProcessW">
+      <definition type="safe" source="code" file_id="1" line="481" col="35"/>
+    </Function>
+    <Function id="CreateProcessAsUserW" name="ZbECreateProcessAsUserWX" decorated_name="WINBOOL CreateProcessAsUserW(HANDLE, LPCWSTR, LPWSTR, LPSECURITY_ATTRIBUTES, LPSECURITY_ATTRIBUTES, WINBOOL, DWORD, LPVOID, LPCWSTR, LPSTARTUPINFOW, LPPROCESS_INFORMATION)" sorted_name="CreateProcessAsUserW">
+      <definition type="safe" source="code" file_id="1" line="513" col="35"/>
+    </Function>
+    <Function id="CreateThread" name="ZMCreateThreadX" decorated_name="HANDLE CreateThread(LPSECURITY_ATTRIBUTES, SIZE_T, LPTHREAD_START_ROUTINE, LPVOID, DWORD, LPDWORD)" sorted_name="CreateThread">
+      <definition type="safe" source="code" file_id="1" line="440" col="37"/>
+    </Function>
+    <Function id="SetFileSecurityW" name="ZbASetFileSecurityWX" decorated_name="WINBOOL SetFileSecurityW(LPCWSTR, SECURITY_INFORMATION, PSECURITY_DESCRIPTOR)" sorted_name="SetFileSecurityW">
+      <definition type="safe" source="code" file_id="1" line="385" col="35"/>
+    </Function>
+    <Function id="SetFileShortNameA" name="ZbBSetFileShortNameAX" decorated_name="WINBOOL SetFileShortNameA(HANDLE, LPCSTR)" sorted_name="SetFileShortNameA">
+      <definition type="safe" source="code" file_id="1" line="669" col="35"/>
+    </Function>
+    <Function id="SetFileShortNameW" name="ZbBSetFileShortNameWX" decorated_name="WINBOOL SetFileShortNameW(HANDLE, LPCWSTR)" sorted_name="SetFileShortNameW">
+      <definition type="safe" source="code" file_id="1" line="677" col="35"/>
+    </Function>
+    <Function id="OpenFile" name="ZIOpenFileX" decorated_name="HFILE OpenFile(LPCSTR, LPOFSTRUCT, UINT)" sorted_name="OpenFile">
+      <definition type="safe" source="code" file_id="1" line="249" col="36"/>
+    </Function>
+    <Function id="CreateDirectoryExA" name="ZbCCreateDirectoryExAX" decorated_name="WINBOOL CreateDirectoryExA(LPCSTR, LPCSTR, LPSECURITY_ATTRIBUTES)" sorted_name="CreateDirectoryExA">
+      <definition type="safe" source="code" file_id="1" line="190" col="35"/>
+    </Function>
+    <Function id="CreateDirectoryExW" name="ZbCCreateDirectoryExWX" decorated_name="WINBOOL CreateDirectoryExW(LPCWSTR, LPCWSTR, LPSECURITY_ATTRIBUTES)" sorted_name="CreateDirectoryExW">
+      <definition type="safe" source="code" file_id="1" line="199" col="35"/>
+    </Function>
+    <Function id="CopyFileA" name="ZJCopyFileAX" decorated_name="WINBOOL CopyFileA(LPCSTR, LPCSTR, WINBOOL)" sorted_name="CopyFileA">
+      <definition type="safe" source="code" file_id="1" line="273" col="35"/>
+    </Function>
+    <Function id="CopyFileW" name="ZJCopyFileWX" decorated_name="WINBOOL CopyFileW(LPCWSTR, LPCWSTR, WINBOOL)" sorted_name="CopyFileW">
+      <definition type="safe" source="code" file_id="1" line="282" col="35"/>
+    </Function>
+    <Function id="CopyFileExA" name="ZLCopyFileExAX" decorated_name="WINBOOL CopyFileExA(LPCSTR, LPCSTR, LPPROGRESS_ROUTINE, LPVOID, LPBOOL, DWORD)" sorted_name="CopyFileExA">
+      <definition type="safe" source="code" file_id="1" line="293" col="35"/>
+    </Function>
+    <Function id="CopyFileExW" name="ZLCopyFileExWX" decorated_name="WINBOOL CopyFileExW(LPCWSTR, LPCWSTR, LPPROGRESS_ROUTINE, LPVOID, LPBOOL, DWORD)" sorted_name="CopyFileExW">
+      <definition type="safe" source="code" file_id="1" line="305" col="35"/>
+    </Function>
+    <Function id="MoveFileA" name="ZJMoveFileAX" decorated_name="WINBOOL MoveFileA(LPCSTR, LPCSTR)" sorted_name="MoveFileA">
+      <definition type="safe" source="code" file_id="1" line="319" col="35"/>
+    </Function>
+    <Function id="MoveFileW" name="ZJMoveFileWX" decorated_name="WINBOOL MoveFileW(LPCWSTR, LPCWSTR)" sorted_name="MoveFileW">
+      <definition type="safe" source="code" file_id="1" line="327" col="35"/>
+    </Function>
+    <Function id="MoveFileExA" name="ZLMoveFileExAX" decorated_name="WINBOOL MoveFileExA(LPCSTR, LPCSTR, DWORD)" sorted_name="MoveFileExA">
+      <definition type="safe" source="code" file_id="1" line="335" col="35"/>
+    </Function>
+    <Function id="MoveFileExW" name="ZLMoveFileExWX" decorated_name="WINBOOL MoveFileExW(LPCWSTR, LPCWSTR, DWORD)" sorted_name="MoveFileExW">
+      <definition type="safe" source="code" file_id="1" line="344" col="35"/>
+    </Function>
+    <Function id="ReplaceFileA" name="ZMReplaceFileAX" decorated_name="WINBOOL ReplaceFileA(LPCSTR, LPCSTR, LPCSTR, DWORD, LPVOID, LPVOID)" sorted_name="ReplaceFileA">
+      <definition type="safe" source="code" file_id="1" line="635" col="35"/>
+    </Function>
+    <Function id="ReplaceFileW" name="ZMReplaceFileWX" decorated_name="WINBOOL ReplaceFileW(LPCWSTR, LPCWSTR, LPCWSTR, DWORD, LPVOID, LPVOID)" sorted_name="ReplaceFileW">
+      <definition type="safe" source="code" file_id="1" line="647" col="35"/>
+    </Function>
+    <Function id="SetFileSecurityA" name="ZbASetFileSecurityAX" decorated_name="WINBOOL SetFileSecurityA(LPCSTR, SECURITY_INFORMATION, PSECURITY_DESCRIPTOR)" sorted_name="SetFileSecurityA">
+      <definition type="safe" source="code" file_id="1" line="376" col="35"/>
+    </Function>
+    <Function id="CreateProcessAsUserA" name="ZbECreateProcessAsUserAX" decorated_name="WINBOOL CreateProcessAsUserA(HANDLE, LPCSTR, LPSTR, LPSECURITY_ATTRIBUTES, LPSECURITY_ATTRIBUTES, WINBOOL, DWORD, LPVOID, LPCSTR, LPSTARTUPINFOA, LPPROCESS_INFORMATION)" sorted_name="CreateProcessAsUserA">
+      <definition type="safe" source="code" file_id="1" line="496" col="35"/>
+    </Function>
+    <Function id="CreateProcessWithLogonW" name="ZbHCreateProcessWithLogonWX" decorated_name="WINBOOL CreateProcessWithLogonW(LPCWSTR, LPCWSTR, LPCWSTR, DWORD, LPCWSTR, LPWSTR, DWORD, LPVOID, LPCWSTR, LPSTARTUPINFOW, LPPROCESS_INFORMATION)" sorted_name="CreateProcessWithLogonW">
+      <definition type="safe" source="code" file_id="1" line="529" col="35"/>
+    </Function>
+    <Function id="CreateProcessWithTokenW" name="ZbHCreateProcessWithTokenWX" decorated_name="WINBOOL CreateProcessWithTokenW(HANDLE, DWORD, LPCWSTR, LPWSTR, DWORD, LPVOID, LPCWSTR, LPSTARTUPINFOW, LPPROCESS_INFORMATION)" sorted_name="CreateProcessWithTokenW">
+      <definition type="safe" source="code" file_id="1" line="545" col="35"/>
+    </Function>
+    <Function id="ExitWindowsEx" name="ZNExitWindowsExX" decorated_name="WINBOOL ExitWindowsEx(UINT, DWORD)" sorted_name="ExitWindowsEx">
+      <definition type="safe" source="code" file_id="1" line="573" col="35"/>
+    </Function>
+    <Function id="LockWorkStation" name="ZPLockWorkStationX" decorated_name="WINBOOL LockWorkStation(void)" sorted_name="LockWorkStation">
+      <definition type="safe" source="code" file_id="1" line="627" col="35"/>
+    </Function>
+    <Function id="InitiateSystemShutdownA" name="ZbHInitiateSystemShutdownAX" decorated_name="WINBOOL InitiateSystemShutdownA(LPSTR, LPSTR, DWORD, WINBOOL, WINBOOL)" sorted_name="InitiateSystemShutdownA">
+      <definition type="safe" source="code" file_id="1" line="580" col="35"/>
+    </Function>
+    <Function id="InitiateSystemShutdownW" name="ZbHInitiateSystemShutdownWX" decorated_name="WINBOOL InitiateSystemShutdownW(LPWSTR, LPWSTR, DWORD, WINBOOL, WINBOOL)" sorted_name="InitiateSystemShutdownW">
+      <definition type="safe" source="code" file_id="1" line="591" col="35"/>
+    </Function>
+    <Function id="InitiateSystemShutdownExA" name="ZbJInitiateSystemShutdownExAX" decorated_name="WINBOOL InitiateSystemShutdownExA(LPSTR, LPSTR, DWORD, WINBOOL, WINBOOL, DWORD)" sorted_name="InitiateSystemShutdownExA">
+      <definition type="safe" source="code" file_id="1" line="602" col="35"/>
+    </Function>
+    <Function id="InitiateSystemShutdownExW" name="ZbJInitiateSystemShutdownExWX" decorated_name="WINBOOL InitiateSystemShutdownExW(LPWSTR, LPWSTR, DWORD, WINBOOL, WINBOOL, DWORD)" sorted_name="InitiateSystemShutdownExW">
+      <definition type="safe" source="code" file_id="1" line="614" col="35"/>
+    </Function>
+    <Function id="__assert" name="ZI__assertX" decorated_name="void __assert(const char *, int, const char *)" sorted_name="__assert">
+      <definition type="safe" source="code" file_id="1" line="104" col="33"/>
+    </Function>
+    <Function id="__assert_func" name="ZN__assert_funcX" decorated_name="void __assert_func(const char *, int, const char *, const char *)" sorted_name="__assert_func">
+      <definition type="safe" source="code" file_id="1" line="130" col="33"/>
+    </Function>
+    <Function id="fprintf" name="ZHfprintfX" decorated_name="int fprintf(FILE *, const char *, ...)" sorted_name="fprintf">
+      <definition type="safe" source="code" file_id="1" line="796" col="32"/>
+    </Function>
+    <Function id="fputc" name="ZFfputcX" decorated_name="int fputc(int, FILE *)" sorted_name="fputc">
+      <definition type="safe" source="code" file_id="1" line="801" col="32"/>
+    </Function>
+    <Function id="fputs" name="ZFfputsX" decorated_name="int fputs(const char *, FILE *)" sorted_name="fputs">
+      <definition type="safe" source="code" file_id="1" line="806" col="32"/>
+    </Function>
+    <Function id="putc" name="ZEputcX" decorated_name="int putc(int, FILE *)" sorted_name="putc">
+      <definition type="safe" source="code" file_id="1" line="824" col="32"/>
+    </Function>
+    <Function id="puts" name="ZEputsX" decorated_name="int puts(const char *)" sorted_name="puts">
+      <definition type="safe" source="code" file_id="1" line="830" col="32"/>
+    </Function>
+    <Function id="fwrite" name="ZGfwriteX" decorated_name="size_t fwrite(const void *, size_t, size_t, FILE *)" sorted_name="fwrite">
+      <definition type="safe" source="code" file_id="1" line="812" col="35"/>
+    </Function>
+    <Function id="fseek" name="ZFfseekX" decorated_name="int fseek(FILE *, long, int)" sorted_name="fseek">
+      <definition type="safe" source="code" file_id="1" line="766" col="32"/>
+    </Function>
+    <Function id="fopen" name="ZFfopenX" decorated_name="FILE * fopen(const char *, const char *)" sorted_name="fopen">
+      <definition type="safe" source="code" file_id="1" line="707" col="35"/>
+    </Function>
+    <Function id="remove" name="ZGremoveX" decorated_name="int remove(const char *)" sorted_name="remove">
+      <definition type="safe" source="code" file_id="1" line="746" col="32"/>
+    </Function>
+    <Function id="rename" name="ZGrenameX" decorated_name="int rename(const char *, const char *)" sorted_name="rename">
+      <definition type="safe" source="code" file_id="1" line="761" col="32"/>
+    </Function>
+</Symbols>
+

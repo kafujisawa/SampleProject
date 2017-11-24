@@ -1,0 +1,14 @@
+#Test suite file data.
+#Fri Nov 24 20:50:47 JST 2017
+test_suite_additional_stubs=
+test_cases_properties=
+test_case_contexts=
+test_suite_included_by=/calcurator/calculator/src/viewer.c
+test_suites=TestSuite_outputconsole_49898469,@@TSS@@
+registered=true
+test_suite_context=/calcurator/calculator/src/viewer.c
+fileVersion=5
+test_suite_description=
+test_suite_names=TestSuite_outputconsole_49898469@@TSN@@
+defined=true
+timestamp=1511524011731
