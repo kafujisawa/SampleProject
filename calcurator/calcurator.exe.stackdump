@@ -1,0 +1,7 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=6115C6C1
+eax=0000000D ebx=004030A8 ecx=00000000 edx=0000000D esi=00000000 edi=0000000D
+ebp=0028C838 esp=0028C834 program=C:\hands_on\UnitTestPractice9x\calcurator\Default\calcurator.exe, pid 6888, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+0028C838  6115C6C1 (0000000D, 0028C904, 004030A8, 00000001)
