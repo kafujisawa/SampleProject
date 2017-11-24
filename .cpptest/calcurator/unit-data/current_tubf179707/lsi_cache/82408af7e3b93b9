@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<LibrarySymbols tool="C++Test" formatVersion="1.0" source="C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\.cpptest\calcurator\file-data\viewer.cea5e08a7\viewer.o">
-    <Symbol name="_inputconsole" remangled="ZMinputconsoleX"/>
-    <Symbol name="_outputconsole" remangled="ZNoutputconsoleX"/>
-</LibrarySymbols>

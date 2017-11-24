@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<LibrarySymbols tool="C++Test" formatVersion="1.0" source="C:\Cygwin\lib\gcc\i686-pc-cygwin\4.9.2\crtbegin.o">
-    <Symbol name="___gcc_register_frame" remangled="ZbE__gcc_register_frameX"/>
-    <Symbol name="___gcc_deregister_frame" remangled="ZbG__gcc_deregister_frameX"/>
-    <Symbol name="___dso_handle" remangled="ZM__dso_handleX"/>
-</LibrarySymbols>

@@ -1,6 +1,0 @@
-fileName=C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\calculator\src\viewer.c
-isCpp=
-compilerOpts=-I"C:\Program Files\Parasoft\C++test\10.3\engine\runtime\include" -O2 -g -Wall -c -fmessage-length=0 -DPARASOFT_CPPTEST
-compilerId=gcc_4_9
-workingDir=C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\calcurator\Default
-advancedOptionsHash=1237154733

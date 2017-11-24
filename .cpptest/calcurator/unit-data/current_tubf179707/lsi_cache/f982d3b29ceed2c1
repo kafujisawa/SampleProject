@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<LibrarySymbols tool="C++Test" formatVersion="1.0" source="C:\Program Files (x86)\Jenkins\workspace\gitSample\SampleProject\.cpptest\calcurator\file-data\format.cbf50e94c\format.o">
-    <Symbol name="_strlenCheck" remangled="ZLstrlenCheckX"/>
-    <Symbol name="_formatCheck" remangled="ZLformatCheckX"/>
-    <Symbol name="_reversePolish" remangled="ZNreversePolishX"/>
-    <Symbol name="_createOutputStatement" remangled="ZbFcreateOutputStatementX"/>
-</LibrarySymbols>
