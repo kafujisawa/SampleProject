@@ -7,7 +7,7 @@ EXTERN_C_LINKAGE void TestSuite_reversePolish_d77acb91_testSuiteBegin(void);
 EXTERN_C_LINKAGE int TestSuite_reversePolish_d77acb91_callTest(const char*);
 
 CPPTEST_TEST_SUITE(TestSuite_reversePolish_d77acb91);
-CPPTEST_TEST_DS(TestSuite_reversePolish_d77acb91_test_reversePolish, CPPTEST_DS("reversepolish"));
+CPPTEST_TEST_DS_DISABLED(TestSuite_reversePolish_d77acb91_test_reversePolish, CPPTEST_DS("reversepolish"));
 CPPTEST_TEST_SUITE_END();
         
 
