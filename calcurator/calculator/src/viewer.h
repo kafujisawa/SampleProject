@@ -7,10 +7,10 @@
 
 #ifndef VIEWER_H_
 #define VIEWER_H_
-#include<stdio.h>
-#include<stdlib.h>
+#include <stdio.h>
+#include <stdlib.h>
 
-void inputconsole(char *);
+void inputconsole(char *str2);
 void outputconsole(char str2[256]);
 
 #endif /* VIEWER_H_ */

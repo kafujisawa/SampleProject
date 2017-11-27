@@ -7,12 +7,12 @@
 
 #ifndef FORMAT_H_
 #define FORMAT_H_
-#include<stdio.h>
-#include<string.h>
+#include <stdio.h>
+#include <string.h>
 #include "calc.h"
 
-int strlenCheck(char *);
-int formatCheck(char *);
-int reversePolish(char *,char outstr[256]);
-void createOutputStatement(char *,char *);
+int32_t strlenCheck(char *instr);
+int32_t formatCheck(char *instr);
+int32_t reversePolish(char *ptr, char outstr[256]);
+void createOutputStatement(char* instr,char outstr[256]);
 #endif /* FORMAT_H_ */

@@ -11,7 +11,6 @@
 #include <stdlib.h>
 #include <math.h>
 #include <limits.h>
-int calc(char *,int *);
-
+int32_t calc(char *repolish, int32_t *calculationResult);
 
 #endif /* CALC_H_ */
